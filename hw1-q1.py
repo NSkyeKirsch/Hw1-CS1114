@@ -1,7 +1,7 @@
 """
 Author: Noa Kirschbaum
 Assignment / Part: HW1 - Q1
-Date due: 2020-02-10
+Date due: 2022-02-10
 I pledge that I have completed this assignment without
 collaborating with anyone else, in conformance with the
 NYU School of Engineering Policies and Procedures on
