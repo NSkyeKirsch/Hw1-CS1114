@@ -18,5 +18,5 @@ num_immigrants = (year_input*seconds_in_year)//35;
 
 est_population = (num_births + num_immigrants - num_deaths) + original_population;
 
-print("the estimated population in",year_input,"years is",est_population);
+print("The estimated population in",year_input,"years is",est_population);
 
